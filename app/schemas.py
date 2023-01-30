@@ -14,7 +14,7 @@ class FilmeCriar(BaseFilme):
 
 
 class Filme(FilmeCriar):
-    id: int | str | UUID
+    id: UUID
     data_criacao: dt.datetime
     class Config:
         orm_mode = True
