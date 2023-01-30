@@ -15,7 +15,7 @@ A API possui as seguintes rotas:
 
 - GET http://127.0.0.1:8000/filmes/{id}
 
-- POST http://127.0.0.1:8000/filmes/
+- POST http://127.0.0.1:8000/filmes
 
 Para usar todas as rotas de modo fácil, utilize a página http://127.0.0.1:8000/docs
 
